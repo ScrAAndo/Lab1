@@ -1,0 +1,7 @@
+Sample Student
+CSC 221 Introduction to Programming and Pro3 C
+CSC 208 Introduction to Discrete Structures3 A
+BIO 101 General Biology I4 B
+ENG 111 College Composition I3 B
+MTH 167 Precalculus with Trigonometry5 A
+SDV 100 College Success Skills1 B
